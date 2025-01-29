@@ -13,8 +13,8 @@ Right now, I'm doing my internship at a tech company, gaining hands-on experienc
 ### 🏫 Technologies I'm Learning at School  
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="50" style="margin-right: 20px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" alt="Java" width="50" style="margin-right: 20px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg" alt="SQL" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" alt="Java" width="25" style="margin-right: 20px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg" alt="SQL" width="80"/>
 </p>
 
 ### 🎮 Technologies I Learn on My Own  
@@ -34,7 +34,7 @@ Right now, I'm doing my internship at a tech company, gaining hands-on experienc
 ### 🌐 Connect with me  
 <p>
 <a href="https://www.linkedin.com/in/jose-maria-gaston-rodriguez/">
-  <img align="left" alt="Jose Gaston LinkedIn" width="25px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" style="margin-right: 10px;"/>
+  <img align="left" alt="Jose Gaston LinkedIn" width="25px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" style="margin-right: 5px;"/>
 </a>
 
 <a href="https://truesoul.itch.io/">
