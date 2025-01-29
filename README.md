@@ -18,7 +18,7 @@ Right now, I'm doing my internship at a tech company, gaining hands-on experienc
 
 ### Connect with me :smiley:
 <a href="https://www.linkedin.com/in/jose-maria-gaston-rodriguez/">
-  <img align="left" alt="Jose Gaston Linkdin" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+  <img align="left" alt="Jose Gaston Linkdin" width="25px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
 <a href="https://truesoul.itch.io/">
   <img align="left" alt="Jose Gaston Itch.io" width="90px" src="https://static.itch.io/images/logo-white-new.svg" />
