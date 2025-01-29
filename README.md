@@ -21,7 +21,7 @@ Right now, I'm doing my internship at a tech company, gaining hands-on experienc
   <img align="left" alt="Jose Gaston Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
 <a href="https://truesoul.itch.io/">
-  <img align="left" alt="Jose Gaston Itch.io" width="40px" src="https://static.itch.io/images/logo-white-new.svg" />
+  <img align="left" alt="Jose Gaston Itch.io" width="100px" src="https://static.itch.io/images/logo-white-new.svg" />
 </a>
 </p>
 <br/><br/>
