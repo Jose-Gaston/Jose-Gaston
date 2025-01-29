@@ -14,7 +14,7 @@ Right now, I'm doing my internship at a tech company, gaining hands-on experienc
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" alt="Java" width="27" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg" alt="SQL" width="90"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg" alt="SQL" width="100"/>
 </p>
 
 ### 🎮 Technologies I Learn on My Own  
