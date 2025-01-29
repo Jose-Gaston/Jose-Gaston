@@ -22,7 +22,14 @@ Right now, I'm doing my internship at a tech company, gaining hands-on experienc
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C#" width="50" style="margin-right: 150;"/>
   <img src="https://cdn.sanity.io/images/fuvbjjlp/production/2495ab2daae11fd3ed5d6b84477d513869f9a1b4-89x100.png" alt="Unity" width="50"/>
 </p>
-
+<p>
+<a href="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg">
+  <img align="left" alt="Jose Gaston LinkedIn" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
+</a>
+<a href="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg">
+  <img align="left" width="90px" src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" />
+</a>
+</p>
 
 ### ⚙️ GitHub Analytics  
 <p align="center">
