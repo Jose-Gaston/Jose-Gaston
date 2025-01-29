@@ -20,7 +20,7 @@ Right now, I'm doing my internship at a tech company, gaining hands-on experienc
 ### 🎮 Technologies I Learn on My Own  
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C#" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" alt="Unity" width="50"/>
+  <img src="https://cdn.sanity.io/images/fuvbjjlp/production/2495ab2daae11fd3ed5d6b84477d513869f9a1b4-89x100.png" alt="Unity" width="50"/>
 </p>
 
 ### ⚙️ GitHub Analytics  
@@ -37,7 +37,7 @@ Right now, I'm doing my internship at a tech company, gaining hands-on experienc
   <img align="left" alt="Jose Gaston LinkedIn" width="25px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
 <a href="https://truesoul.itch.io/">
-  <img align="left" alt="Jose Gaston Itch.io" width="90px" src="https://static.itch.io/images/logo.svg" />
+  <img align="left" alt="Jose Gaston Itch.io" width="90px" src="https://static.itch.io/images/logo-white-new.svg" />
 </a>
 </p>
 <br/><br/>
