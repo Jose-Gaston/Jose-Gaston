@@ -9,10 +9,19 @@ Right now, I'm doing my internship at a tech company, gaining hands-on experienc
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
-
 <p align="center">
 <a href="https://github.com/Jose-Gaston">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jose-Gaston&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jose-Gaston&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+### Connect with me :smiley:
+<a href="https://www.linkedin.com/in/jose-maria-gaston-rodriguez/">
+  <img align="left" alt="Jose Gaston Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+</a>
+<a href="https://truesoul.itch.io/">
+  <img align="left" alt="Jose Gaston Itch.io" width="21px" src="[https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg](https://static.itch.io/images/logo-white-new.svg)" />
+</a>
+</p>
+<br/><br/>
