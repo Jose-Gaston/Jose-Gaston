@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hi, I'm Jose <a href="https://aristi.dev">AristiDevs</a> 👋</h1>
+</div>
 
-<!--
-**Jose-Gaston/Jose-Gaston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+Hi! I'm a software developer originally from Barcelona/Spain, currently living in Stockholm/Sweden. I'm in my final year of studying Multiplatform Application Development, where I'm learning the fundamentals of object-oriented programming and databases.
 
-Here are some ideas to get you started:
+Right now, I'm doing my internship at a tech company, gaining hands-on experience in the industry. I'm passionate about video games, and in my free time, I love learning how to make them. I'm currently focusing on C# and Unity to improve my game development skills.
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/Jose-Gaston">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jose-Gaston&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jose-Gaston&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
