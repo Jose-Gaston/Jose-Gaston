@@ -20,7 +20,7 @@ Right now, I'm doing my internship at a tech company, gaining hands-on experienc
 ### 🎮 Technologies I Learn on My Own  
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C#" width="50"/>
-  <img src="https://upload.vectorlogo.zone/logos/unity3d/images/33965117-e670-4b9a-88ef-084ee868bbf8.html" alt="Unity" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" alt="Unity" width="50"/>
 </p>
 
 ### ⚙️ GitHub Analytics  
