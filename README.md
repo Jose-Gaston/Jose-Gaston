@@ -3,9 +3,7 @@
 </div>
 
 ## About me
-Hi! I'm a software developer originally from Barcelona/Spain, currently living in Stockholm/Sweden. I'm in my final year of studying Multiplatform Application Development, where I'm learning the fundamentals of object-oriented programming and databases.
-
-Right now, I'm doing my internship at a tech company, gaining hands-on experience in the industry. I'm passionate about video games, and in my free time, I love learning how to make them. I'm currently focusing on C# and Unity to improve my game development skills.
+I’m a Game Developer passionate about creating playable experiences with Unity and C#. I have developed several projects, including MFTP: The Game, a promotional arcade game for a restaurant reaching 1,400+ views and 700 plays within 10 day on itch.io. I enjoy teamwork, problem-solving, and delivering full-cycle game development projects.
 <br>
 
 ## 🛠 Technologies & Tools  
